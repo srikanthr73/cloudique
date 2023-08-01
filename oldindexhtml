@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+<title>Cloudique | Home</title>
+
+<!-- Fav Icon -->
+<link rel="icon" href="assets/images/favicon.jpg" type="image/x-icon">
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,300;1,400;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Muli:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+
+<!-- Stylesheets -->
+<link href="assets/css/font-awesome-all.css" rel="stylesheet">
+<link href="assets/css/flaticon.css" rel="stylesheet">
+<link href="assets/css/owl.css" rel="stylesheet">
+<link href="assets/css/bootstrap.css" rel="stylesheet">
+<link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
+<link href="assets/css/animate.css" rel="stylesheet">
+<link href="assets/css/color.css" rel="stylesheet">
+<link href="assets/css/style.css" rel="stylesheet">
+<link href="assets/css/responsive.css" rel="stylesheet">
+<script src="https://use.fontawesome.com/0daeaae398.js"></script>
+</head>
+
+
+<!-- page wrapper -->
+<body>
+
+    <div class="boxed_wrapper">
+        <!-- Preloader -->
+        <div class="loader-wrap">
+            <div class="preloader"><div class="preloader-close">Preloader Close</div></div>
+            <div class="layer layer-one"><span class="overlay"></span></div>
+            <div class="layer layer-two"><span class="overlay"></span></div>        
+            <div class="layer layer-three"><span class="overlay"></span></div>        
+        </div>
+        <!-- main header -->
+        <header class="main-header"> 
+            <div class="header-lower">
+                <div class="outer-box clearfix">
+                    <div class="">
+                    <div class="menu-area clearfix">
+                        
+                        <nav class="main-menu navbar-expand-md navbar-light">
+                            <figure class="logo-box"><a href="/"><img class="img-logo-res" src="assets/images/cloudique-large.png" alt=""width="250"></a></figure>
+                        <!--Mobile Navigation Toggler-->
+                        <div class="mobile-nav-toggler">
+                            <i class="icon-bar"></i>
+                            <i class="icon-bar"></i>
+                            <i class="icon-bar"></i>
+                        </div>
+                            <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+                                <ul class="navigation clearfix">
+                                    <li class="current dropdown"><a href="/">Home</a></li>
+                                    <li class="dropdown"><a href="about.html">About Us</a></li>    
+                                    <li class="dropdown"><a href="why-choose-us.html">Why Choose Us</a></li> 
+                                    <li class="dropdown"><a href="">Our Services</a></li>
+                                    <li class="dropdown"><a href="contact.html">Contact</a></li>
+                                    <li class="dropdown"><a href="http://app.cloudique.com/">Login</a></li>               
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+            <!--sticky Header-->
+            <div class="sticky-header">
+                <div class="outer-box clearfix">
+                    <div class="">
+                    <div class="menu-area">
+                        <!-- <figure class="logo-box"><a href="/"><img class="img-logo-res-sticky" src="assets/images/cloudique-large.png" alt=""></a></figure> -->
+                        <nav class="main-menu clearfix">
+                            <!--Keep This Empty / Menu will come through Javascript-->
+                        </nav>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </header>
+        <!-- main-header end -->
+
+        <!-- Mobile Menu  -->
+        <div class="mobile-menu">
+            <div class="menu-backdrop"></div>
+            <div class="close-btn"><i class="fas fa-times"></i></div>
+            <nav class="menu-box">
+                <div class="nav-logo"><a href="/"><img class="logo-box-img" src="assets/images/cloudique-large.png" alt="" title=""></a></div>
+                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+            </nav>
+        </div><!-- End Mobile Menu -->
+
+
+        <!-- banner-section -->
+        <section class="banner-section style-one">
+            <div class="banner-carousel owl-theme owl-carousel owl-dots-none owl-nav-none">
+                <div class="slide-item style-one">
+                    <div class="image-layer" style="background-image:url(assets/images/banner/banner-1.jpg)"></div>
+                    <div class="pattern-layer">
+                        <div class="pattern-1" style="background-image: url(assets/images/shape/pattern-1.png);"></div>
+                        <div class="pattern-2" style="background-image: url(assets/images/shape/pattern-2.png);"></div>
+                    </div>
+                    <div class="auto-container">
+                        <div class="row clearfix">
+                            <div class="col-xl-6 col-lg-12 col-md-12 content-column">
+                                <div class="content-box">
+                                    <span>Engaged with Staffing</span>
+                                    <h1>Partnering <br />You for Your <br />Human Resource Require.</h1>
+                                    <p>By way of us you can achieve what you want.</p>
+                                    <div class="btn-box">
+                                        <a href="javascript:void(0)" class="theme-btn-two">Learn More</a>
+                                    </div>
+                                </div> 
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+                <div class="slide-item style-two">
+                    <div class="image-layer" style="background-image:url(assets/images/banner/banner-2.jpg)"></div>
+                    <div class="pattern-layer">
+                        <div class="pattern-1" style="background-image: url(assets/images/shape/pattern-3.png);"></div>
+                        <div class="pattern-2" style="background-image: url(assets/images/shape/pattern-4.png);"></div>
+                    </div>
+                    <div class="auto-container">
+                        <div class="row clearfix">
+                            <div class="col-xl-6 col-lg-12 col-md-12 offset-xl-6 content-column">
+                                <div class="content-box">
+                                    <span>Engaged with Staffing</span>
+                                    <h1>Shining a Light on Your HR <br />and Employment</h1>
+                                    <p>By way of us you can achieve what you want.</p>
+                                    <div class="btn-box">
+                                        <a href="javascript:void(0)" class="theme-btn-two">Learn More</a>
+                                    </div>
+                                </div> 
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+                <div class="slide-item style-one">
+                    <div class="image-layer" style="background-image:url(assets/images/banner/banner-3.jpg)"></div>
+                    <div class="pattern-layer">
+                        <div class="pattern-1" style="background-image: url(assets/images/shape/pattern-1.png);"></div>
+                        <div class="pattern-2" style="background-image: url(assets/images/shape/pattern-2.png);"></div>
+                    </div>
+                    <div class="auto-container">
+                        <div class="row clearfix">
+                            <div class="col-xl-7 col-lg-12 col-md-12 content-column">
+                                <div class="content-box">
+                                    <span>Engaged with Staffing</span>
+                                    <h1>Cloudique <br />Provide Employment Opportunities</h1>
+                                    <p>By way of us you can achieve what you want.</p>
+                                    <div class="btn-box">
+                                        <a href="javascript:void(0)" class="theme-btn-two">Learn More</a>
+                                    </div>
+                                </div>  
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- banner-section end -->
+
+        <!-- welcome-section -->
+        <section class="welcome-section">
+            <div class="auto-container">
+                <div class="sec-title centred">
+                    <span class="top-title">Welcome to Cloudique</span>
+                    <h2>Modern Digital Cloud Solutions For You. </h2>
+                    <p>Helping You Find and Hire the Best Talent Out There!</p>
+                    <p class="p-class">Committed to bringing digital transformations in businesses around the world. Cloudique strives to create an inspirational and innovative workforce for your company.</p>
+                    <p>Pushing the way forward for our customers, our people and the corporate industry.</p>
+                </div>
+                <div class="row clearfix">
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <figure class="image-box js-tilt"><img src="assets/images/resource/welcome-1.png" alt=""></figure>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                        <div id="content_block_1">
+                            <div class="content-box">
+                                <div class="tabs-box">
+                                    <div class="tabs-content">
+                                        <div class="tab active-tab" id="tab-1">
+                                            <div class="inner-box">
+                                                <h2>Our Promise</h2>
+                                                <p>We offer a collective digital platform that unifies various aspects of Human Resource Management of your company through our state of art and technology driven Talent Management System. </p>
+                                                <p>From Workforce planning to searching and recruiting to hiring and performance management, we have the solution to all your HR problems. </p>
+                                                <p>With years of experience, technical skills and visionary expertise of our leading team members, we have created an unbeatable suite of workforce management tools and human resource solutions. </p>
+                                                <p>Bridging the gap between human resource demand and supply, our digital solutions help clients gain access to the best talent out in the market. </p>
+                                                <p>BOur Cloud Storage and File Sharing Services help the digital collaboration and synergy that can lead your business to growth and long term success. </p>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- welcome-section end -->
+
+
+        <!-- about-section -->
+        <section class="about-section">
+            <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-5.png);"></div>
+            <div class="auto-container">
+                <div class="inner-container">
+                    <div class="row clearfix">
+                        <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                            <div id="content_block_2">
+                                <div class="content-box centred">
+                                    <figure class="image-box"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                            <div id="content_block_3">
+                                <div class="content-box">
+                                    <div class="sec-title">
+                                        <span class="top-title">Our Vision</span>
+                                    </div>
+                                    <div class="text">
+                                        <p>We have a vision to become a leading digital cloud solutions provider for businesses of all sizes and categories, through performance driven by technological innovation, employee empowerment and teamwork. </p>
+                                    </div>
+                                    <div class="sec-title">
+                                        <span class="top-title">Our Mission</span>
+                                    </div>
+                                    <div class="text">
+                                        <p>Cloudique has a mission to provide business entities the smart digital solutions that help empower their managers for better decision making and enhance the productivity of their employees incrementally. We strive for helping our clients in achieving their strategic goals and objectives by recruiting, hiring, and retaining the best human resources in the industry. </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- about-section end -->
+
+
+        <!-- service-section -->
+        <section class="service-section">
+            <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-6.png);"></div>
+            <div class="anim-icon">
+                <div class="icon-1" style="background-image: url(assets/images/icons/anim-icon-1.png);"></div>
+                <div class="icon-2"></div>
+            </div>
+            <div class="auto-container">
+                <div class="sec-title centred">
+                    <h2>Our Services</h2>
+                    <p class="p-class">Dedicated to provide every client the most effective digital cloud services and talent management solution for their needs, our programs are designed and based on the novel ideas of our expert team members, consultation with the experienced HR specialists of the corporate world, and talent management professionals of the technical industry. </p>
+                </div>
+                <div class="three-item-carousel owl-carousel owl-theme owl-nav-none owl-dot-style-one">
+                    <div class="service-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/service/share.jpg" alt=""></figure>
+                        </div>
+                        <div class="services-new">
+                            <h5>Share Files - Ease and Convenience Without Any Risks</h5>
+                            <ul>
+                             <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Easy File and Folder Sharing</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Real Time Tracking of Files and Folders</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Auto Sync</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Mobile Optimization</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Organized Files and Folders</li>
+                               <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Ideal for Teams and Groups</li>
+                               <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Check and Control Mechanism</li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="service-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/service/protect-secure.jpg" alt=""></figure>
+                        </div>
+                        <div class="services-new">
+                            <h5>Protect and Secure - A Safe and Risk-Free Cloud Storage For All Your Data and Information</h5>
+                            <ul>
+                             <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Secure File Back Up System</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Accessibility from Anywhere and Anytime</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>File Recovery</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Data Protection</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Large Storage Space </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="service-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/service/working-remotely.jpg" alt=""></figure>
+                        </div>
+                        <div class="services-new">
+                            <h5>Working Remotely – Create a Remote Environment of Collaboration and Synergy</h5>
+                            <ul>
+                             <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Cloud Computing Services</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Working For the Same Goals</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Sharing of Ideas and Information</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Sharing of Relevant Information and Content</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Effective Feedback Mechanism</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="service-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><img src="assets/images/service/ats.jpg" alt=""></figure>
+                        </div>
+                        <div class="services-new">
+                            <h5>Cloud Applicant Tracking System ATS – Helping You Recruit and Hire the Very Best</h5>
+                            <ul>
+                             <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Smooth and Hassle Free Recruitment and Hiring</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Improving Human Resource Productivity and Efficiency</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Recruitment Marketing</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Video Interviews</li>
+                              <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Talent Management Solutions.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="sec-title centred">
+                    <p>For more information and assistance, you can call us or contact us through email. We are always ready to help you out.</p>
+                </div>
+            </div>
+
+        </section>
+        <!-- service-section end -->
+        <!-- main-footer -->
+        <footer class="main-footer bg-color-1">
+            <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-11.png);"></div>
+            <div class="auto-container">
+                <div class="footer-top">
+                    <div class="widget-section">
+                        <div class="row clearfix">
+                            <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                                <div class="footer-widget about-widget">
+                                    <div class="widget-title">
+                                        <h3>Office</h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>1613 S Main St.,<br />Suite # 104,  <br />Milpitas CA 95035-6270.</p>
+                                    </div>
+                                    <ul class="social-links clearfix">
+                                        <li><h5>Connected:</h5></li>
+                                        <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="javascript:void(0)"><i class="fab fa-google-plus-g"></i></a></li>
+                                        <li><a href="javascript:void(0)"><i class="fab fa-youtube"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                                <div class="footer-widget links-widget">
+                                    <div class="widget-title">
+                                        <h3>Useful Links</h3>
+                                    </div>
+                                    <ul class="links-list clearfix">
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="about.html">About Us</a></li>
+                                        <li><a href="service.html">Our Services</a></li>
+                                        <li><a href="why-choose-us.html">Why Choose Us</a></li>  
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                                <div class="footer-widget contact-widget">
+                                    <div class="single-info-box">
+                                        <div class="widget-title">
+                                            <h3>Contact</h3>
+                                        </div>
+                                        <ul class="info-box clearfix">
+                                            <li><a href="tel:4084094424">(408) 409-4424</a></li>
+                                            <li><a href="mailto:info@cloudique.com">info@cloudique.com</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-bottom clearfix">
+                    <div class="copyright"><p>&copy; 2020 <a href="/">Cloudique</a>, All Rights Reserved.</p></div>
+                </div>
+            </div>
+        </footer>
+        <!-- main-footer end -->
+
+
+        <!--Scroll to top-->
+        <button class="scroll-top scroll-to-target" data-target="html"><i class="flaticon-up-arrow-1"></i>Top</button>
+    </div>
+
+
+    <!-- jequery plugins -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/validation.js"></script>
+    <script src="assets/js/jquery.fancybox.js"></script>
+    <script src="assets/js/TweenMax.min.js"></script>
+    <script src="assets/js/appear.js"></script>
+    <script src="assets/js/jquery.countTo.js"></script>
+    <script src="assets/js/scrollbar.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/tilt.jquery.js"></script>
+
+    <!-- main-js -->
+    <script src="assets/js/script.js"></script>
+</body><!-- End of .page_wrapper -->
+
+</html>
